@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project-PCD---Cotton-Disease-CNN-
 
 Pendeteksian Penyakit Tanaman Kapas Dengan Pengimplementasian CNN
@@ -11,3 +12,6 @@ Anggota Kelompok:
 3. I Gusti Agung Ngurah Fajar Dharmawangsa (G6401201059)
 4. Nur Sulthan Almuntaha (G6401201009)
 5. Maulana Aziz (G6401201043)
+=======
+# Project-PCD---Cotton-Disease-CNN-
+>>>>>>> parent of 6aea4d0 (Update README.md)
