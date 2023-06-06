@@ -2,7 +2,7 @@
 
 Pendeteksian Penyakit Tanaman Kapas Dengan Pengimplementasian CNN
 
-Sumber dataset: https://www.kaggle.com/datasets/hermayakrisna/klasifikasi-tingkat-kematangan-pisang
+Sumber dataset: https://www.kaggle.com/datasets/janmejaybhoi/cotton-disease-dataset
 
 Anggota Kelompok:
 
